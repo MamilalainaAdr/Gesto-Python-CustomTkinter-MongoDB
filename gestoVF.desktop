@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Gesto
+Icon=./icon.svg
+Exec=./gesto.sh
+Terminal=false
